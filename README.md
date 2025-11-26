@@ -41,8 +41,8 @@ A scalable web application for importing products from CSV files into a PostgreS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/suiisharma/ashishprojec1.git
-cd ashishprojec1
+git clone https://github.com/kashish049/project-Importer.git
+cd project Importer
 ```
 
 ### 2. Start the Application
